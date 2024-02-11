@@ -1,3 +1,5 @@
+// GCD = Greatest Common Divisor !
+
 let a=24, b=60;
 var divisor, divident, reminder;
 

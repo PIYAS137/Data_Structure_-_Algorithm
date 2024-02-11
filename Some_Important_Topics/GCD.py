@@ -1,3 +1,5 @@
+#  GCD = Greatest Common Divisor !
+
 a,b = map(int,input("Enter 2 numbers : ").split(' '))
 divisor, divident, reminder = 0,0,0
 if a>b : 

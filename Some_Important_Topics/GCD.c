@@ -1,3 +1,5 @@
+// GCD = Greatest Common Divisor !
+
 #include <stdio.h>
 int main(){
     
